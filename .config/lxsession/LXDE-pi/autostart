@@ -1,0 +1,12 @@
+@lxpanel --profile LXDE-pi
+@pcmanfm --desktop --profile LXDE-pi
+#@xscreensaver -no-splash
+@xset s off
+@xset -dpms
+@xset s noblank
+@unclutter -idle 30
+
+
+
+@chromium-browser --noerrdialogs --kiosk --incognito http://192.144.190.210:8010/dashboard/b3dfcd40-d50d-11e8-9c86-19efc0cc9e57?publicId=b5494850-d50d-11e8-9c86-19efc0cc9e57
+~                                                      
