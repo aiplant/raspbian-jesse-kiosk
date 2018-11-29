@@ -17,6 +17,9 @@ This documemt describes the process of turning Raspberry Pi running the original
 - **Raspbian**
   - [`2016-09-23-raspbian-jessie`](https://downloads.raspberrypi.org/raspbian_latest)
 
+## Reference
+- https://www.ceos3c.com/misc/disable/
+- https://www.raspberrypi.org/forums/viewtopic.php?t=57552
 
 ## Setup
 Download the latest [raspbian image](https://www.raspberrypi.org/downloads/raspbian/) and install the image on you SD card using the [standard procedure](https://www.raspberrypi.org/documentation/installation/installing-images/README.md).
